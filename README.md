@@ -100,54 +100,6 @@ Cada arquivo possui uma responsabilidade específica dentro do sistema.
 
 ---
 
-## 🚀 Como Executar
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/Matheus1706-dog/ProjetoATM.git
-```
-
-### 2. Acesse a pasta
-
-```bash
-cd ProjetoATM
-```
-
-### 3. Abra o projeto no VS Code
-
-```bash
-code .
-```
-
-### 4. Compile os arquivos
-
-Como o projeto possui arquivos em C/C++, é necessário ter um compilador instalado, como o **GCC/G++**.
-
-Exemplo para um arquivo C++:
-
-```bash
-g++ "Menu e login.cpp.cpp" -o atm
-```
-
-Depois execute:
-
-### Windows
-
-```bash
-atm.exe
-```
-
-### Linux/macOS
-
-```bash
-./atm
-```
-
-> Dependendo da organização final dos módulos, os arquivos do projeto podem precisar ser compilados juntos.
-
----
-
 ## 🧠 Conceitos Aplicados
 
 Durante o desenvolvimento foram trabalhados conceitos importantes de programação, como:
